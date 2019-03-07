@@ -1,8 +1,8 @@
 # Article-web-scraping-and-subject-analysis
 
-Scraped https://www.jiqizhixin.com/dailies using selenium and Beautifulsoup; 
-Got certain information on the certain day
-Used jieba nltk to dig out the keywords for each article and used WordCloud to show to hottest topics in AI Daily
+* Scraped https://www.jiqizhixin.com/dailies using selenium and Beautifulsoup; 
+* Got AI Daily information and stored them in dataframes
+* Used jieba and nltk packages to dig out the keywords for each article and used WordCloud to show hottest topics in AI Daily
 
 ##
 Demo : https://github.com/rainyuxia0112/Article-web-scraping-and-subject-analysis/blob/master/%E6%9C%80%E7%83%AD%E9%97%A8%E4%B8%BB%E9%A2%98%202%E6%9C%8820%20%E5%88%B027.png
